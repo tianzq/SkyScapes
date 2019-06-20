@@ -1,4 +1,4 @@
-# Skyscapes-Dataset
+# SkyScapes-Dataset
 Skyscapes  -- Fine-Grained Semantic Understanding of Aerial Scenes
 
 German Aerospace Center (DLR: Deutsches Zentrum für Luft und Raumfahr e.V.)
