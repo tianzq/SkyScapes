@@ -7,6 +7,8 @@ German Aerospace Center (DLR: Deutsches Zentrum für Luft- und Raumfahrt e.V.)
 
 https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5297/8940_read-16255/
 
+https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5297/8940_read-16255/
+
 https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760
 
 Technical University of Munich (TUM)
@@ -41,3 +43,5 @@ If you use SkyScapes dataset in your research, please star the project and consi
   publisher={IEEE}
 }
 ```
+
+## We are looking for Master and PhD students with Computer Vision knowledge and Deep Learning experience to work in the field of remote sensing in German Aerospace Center (DLR) in  Muenchener Str. 20, 82234 Wessling, Germany.
