@@ -24,7 +24,7 @@ If you use SkyScapes dataset in your research, please star the project and consi
 ```
 
 @inproceedings{azimi2019skyscapes,
-  title={Skyscapes  -- Fine-Grained Semantic Understanding of Aerial Scenes},
+  title={Skyscapes - Fine-Grained Semantic Understanding of Aerial Scenes},
   author={Azimi, Seyed Majid and Henry, Corentin and Sommer, Lars and Schumann, Arne and Vig, Eleonora},
   booktitle={Proceedings of the IEEE international conference on computer vision},
   year={2019}
