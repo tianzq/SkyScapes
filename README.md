@@ -44,4 +44,5 @@ If you use SkyScapes dataset in your research, please star the project and consi
 }
 ```
 
-## We are looking for Master and PhD students with Computer Vision knowledge and Deep Learning experience to work in the field of remote sensing in German Aerospace Center (DLR) in  Muenchener Str. 20, 82234 Wessling, Germany.
+## Hiring
+We are looking for Master and PhD students with Computer Vision knowledge and Deep Learning experience to work in the field of remote sensing in German Aerospace Center (DLR) in  Muenchener Str. 20, 82234 Wessling, Germany.
